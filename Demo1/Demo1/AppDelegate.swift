@@ -9,6 +9,8 @@
 import UIKit
 import CoreData
 
+//THis is man 2 modifying the same file
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
