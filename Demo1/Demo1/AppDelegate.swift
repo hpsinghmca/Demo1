@@ -9,7 +9,7 @@
 import UIKit
 import CoreData
 
-//THis is man 2 modifying the same file
+//THis is man 2 modifying the same
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
